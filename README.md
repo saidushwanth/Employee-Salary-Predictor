@@ -1,5 +1,5 @@
 This project predicts whether an individual earns more than $50K per year based on census data, using a machine learning model trained on the UCI Adult Income Dataset. It includes model training, accuracy optimization using GridSearchCV, and a responsive web app built with Streamlit for real-time predictions.
-website link:https://employee-salary-predictor-vvwfx3ibvov3yyrnsgxlsz.streamlit.app/
+website link:https://employee-salary-predictor-f7e2ujjgwaklefqcmr2yup.streamlit.app/
 
 
 🔍 Project Highlights
